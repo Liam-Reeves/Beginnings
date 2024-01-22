@@ -1,0 +1,59 @@
+        body{
+            background-color: black;
+            color: aqua;
+
+text-align:center;
+            font-size: 20px;
+
+         padding-left: 90px
+padding-top: 30px;
+
+
+        }
+
+
+          a{
+              text-decoration:none;
+              color: darkred;
+          }
+          a:hover{
+              color:white;
+              border-bottom:yellow 2px solid;
+              font-size: 25px;
+
+          }
+
+
+
+.one{
+    color: red;
+border:yellow 2px solid;
+    border-radius: 7px;
+
+
+
+
+}
+
+
+
+.two{
+    color: cyan;
+    border:black 2px solid;
+padding-left: 50px;
+
+
+border-radius:6px;
+width:8%;
+
+
+
+
+}
+#one{
+    background-color: #a6b252
+
+    color:yellowgreen;
+
+
+}

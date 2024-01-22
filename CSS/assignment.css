@@ -1,0 +1,26 @@
+body{
+padding-top: 30px;
+    padding-left: 30px;
+font-family: 'Lato', sans-serif;
+;
+
+}
+
+.one{
+color: white;
+    background-color: #000;
+border:black 7px solid;
+    border-radius: 7px;
+   width: 20%;
+height: 50px;
+    }
+textarea{
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    color: white;
+
+
+}
+.two{
+    background-color: black;
+}
